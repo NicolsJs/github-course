@@ -1,0 +1,56 @@
+p{
+    color: white;
+    margin: 25px;
+}
+/* "#" Seria para o ID, enquanto "." seria para Classe.   */
+h3{
+    margin: 22;
+    color:#00008B;
+}
+
+h1{
+    color: #9400D3;
+}
+h4{
+    color: #4B0082;
+    
+}
+        /* fim da primeira parte e começa o layout abaixo */
+
+ #geral{
+    width: 990px;
+    margin: 10px auto;
+ }
+
+ #topo {
+    width: 100%;
+    height: 80px;
+    background: #20B2AA;
+ }
+ #principal{
+    width: 700px;
+    padding: 10px;
+    float: left;
+    background: green;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+
+ #apoio{
+    width: 270px;
+    float: left;
+    background: yellow;
+ }
+
+ #apoio img{
+    padding: 10px;
+    width: 250px;
+    height: 170px;
+ }
+
+ #rodape{
+    width: 100%;
+    clear: both; 
+    background: pink;
+    height: 30px;
+ }
